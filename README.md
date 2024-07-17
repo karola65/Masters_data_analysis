@@ -1,4 +1,4 @@
-# Analysis of UK Power Networks Data
+# Quantitive assessment for UK power networks
 
 This Jupyter Notebook provides an analysis of electricity consumption data provided by UK Power Networks, with carbon data.
 This is a result of the Master Thesis work.
